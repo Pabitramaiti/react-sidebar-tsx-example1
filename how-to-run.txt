@@ -1,0 +1,5 @@
+npm install react-router-dom
+npm audit fix --force
+npm install react-icons
+npm audit fix --force
+npm start
